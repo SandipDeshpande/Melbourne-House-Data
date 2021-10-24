@@ -1,0 +1,43 @@
+We are performing this task which includes below Data Science stages:
+
+• Data Understanding
+• Data Preparation
+• Data Modelling
+• Model Evaluation
+• Deployment
+
+Data Understanding -
+
+Import the data set in Python.
+View the dataset
+See the structure and the summary of the dataset to understand the data.
+Find out the number of:
+a.) Numeric attributes:
+b.) Categorical attributes:
+
+Data Preparation : Data Cleaning -
+
+• Duplicate values: Identify if the datasets have duplicate values or not and remove the duplicate values.
+
+Find out the number of rows present in the dataset
+
+• Before removing duplicate values
+• After removing duplicate values
+
+• Variable type: Check if all the variables have the correct variable type, based on the data dictionary. If not, then change them.
+
+For how many attributes did you need to change the data type?
+
+• Missing value treatment: Check which variables have missing values and use appropriate treatments.
+
+Data Preparation Feature Engineering: -
+A - Feature Transformation:
+1 - Identify variables that have non-linear trends.
+2 - How many variables have non-linear trends?
+3 - Transform them (as required)
+
+B - Standardization:
+Name the variables to be standardised before using a distance-based algorithm
+
+C - Dummy encoding :
+1- Identify the number of dummy variables to be created for the variable steel
